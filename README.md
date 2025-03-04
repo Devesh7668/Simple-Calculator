@@ -35,7 +35,7 @@ A simple web-based calculator built using **HTML, CSS, and JavaScript**. This ca
 ![Calculator Screenshot](screenshot.png)
 
 ## Demo
-You can view the live demo [here](https://your-live-demo-link.com).
+You can view the live demo (http://127.0.0.1:5500/index.html).
 
 ## Contributing
 Feel free to contribute by opening an issue or submitting a pull request.
