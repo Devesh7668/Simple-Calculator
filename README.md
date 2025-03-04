@@ -32,7 +32,7 @@ A simple web-based calculator built using **HTML, CSS, and JavaScript**. This ca
 ```
 
 ## Screenshots
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](calculator.jpeg)
 
 ## Demo
 You can view the live demo (http://127.0.0.1:5500/index.html).
